@@ -1,0 +1,5 @@
+{
+  "name": "Surgex",
+  "description": "An AI-powered email workflow automation system for bank correspondence, featuring role-based dashboards for Bosses, Field Workers, Supervisors, and Admins.",
+  "requestFramePermissions": []
+}
